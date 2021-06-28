@@ -5,10 +5,6 @@ Beyblade dodge game, as the name suggests it allows user to dodge the beyblades 
 This game is a simple javascript application, that make full use of the CSS animations and basic javascript methods. It has a counter that counts your score and resets to zero after each round.   
 I learnt the Chrome dinosaur game, before applying the same to it, Hope you like it 😇
 
-## Screenshots
-
-![App Screenshot](https://drive.google.com/file/d/1gZhI61SrU81odkTyr42ehX_HkYTevwLQ/view?usp=sharing)
-
   
 ## Badges
 
