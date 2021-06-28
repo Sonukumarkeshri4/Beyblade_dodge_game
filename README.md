@@ -7,7 +7,7 @@ I learnt the Chrome dinosaur game, before applying the same to it, Hope you like
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/5szzGV6)
+![App Screenshot](https://drive.google.com/file/d/1gZhI61SrU81odkTyr42ehX_HkYTevwLQ/view?usp=sharing)
 
   
 ## Badges
